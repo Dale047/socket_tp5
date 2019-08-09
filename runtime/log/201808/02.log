@@ -1,0 +1,1202 @@
+---------------------------------------------------------------
+[ 2018-08-02T01:11:00+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.041229s][吞吐率：24.25req/s] [内存消耗：1,463.69kb] [文件加载：39]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:18:16+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.034342s][吞吐率：29.12req/s] [内存消耗：1,463.94kb] [文件加载：39]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:19:17+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.026181s][吞吐率：38.20req/s] [内存消耗：1,411.94kb] [文件加载：39]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:19:29+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.028640s][吞吐率：34.92req/s] [内存消耗：1,265.03kb] [文件加载：37]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:19:33+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.027938s][吞吐率：35.79req/s] [内存消耗：1,265.03kb] [文件加载：37]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:19:36+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.026236s][吞吐率：38.12req/s] [内存消耗：1,265.03kb] [文件加载：37]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:19:39+08:00 ] ::1 ::1 GET /kefuxitong/public/
+[ info ] localhost/kefuxitong/public/ [运行时间：0.026906s][吞吐率：37.17req/s] [内存消耗：1,265.03kb] [文件加载：37]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=6',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:21:18+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin
+[ info ] localhost/kefuxitong/public/index.php/admin [运行时间：0.034690s][吞吐率：28.83req/s] [内存消耗：1,327.03kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:21:18+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/login/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/index.html [运行时间：0.028911s][吞吐率：34.59req/s] [内存消耗：1,463.79kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\login\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:22:37+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/login/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/index.html [运行时间：0.027918s][吞吐率：35.82req/s] [内存消耗：1,464.60kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=8',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\login\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:22:44+08:00 ] ::1 ::1 POST /kefuxitong/public/index.php/admin/login/dologin.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/dologin.html [运行时间：0.063456s][吞吐率：15.76req/s] [内存消耗：1,992.09kb] [文件加载：44]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'dologin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=9',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '30',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => 'admin',
+)
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010377s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_admins` [ RunTime:0.020575s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_admins` WHERE  `user_name` = 'admin' LIMIT 1 [ RunTime:0.000857s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:24:21+08:00 ] ::1 ::1 POST /kefuxitong/public/index.php/admin/login/dologin.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/dologin.html [运行时间：0.145096s][吞吐率：6.89req/s] [内存消耗：2,111.67kb] [文件加载：49]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'dologin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=9',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '30',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => 'admin',
+)
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003362s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_admins` [ RunTime:0.018223s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_admins` WHERE  `user_name` = 'admin' LIMIT 1 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] UPDATE `ws_admins`  SET `last_login_ip`='0.0.0.0',`last_login_time`=1533144261  WHERE  `id` = 1 [ RunTime:0.069829s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:24:21+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/index.html [运行时间：0.052121s][吞吐率：19.19req/s] [内存消耗：1,568.57kb] [文件加载：42]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; monitor_count=9; user_name=admin; user_id=1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:24:22+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/indexpage.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/indexpage.html [运行时间：0.113320s][吞吐率：8.82req/s] [内存消耗：2,188.29kb] [文件加载：48]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexpage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=10',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->indexPage[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index\index.html [ array (
+  0 => 'version',
+  1 => 'data',
+  2 => 'show_data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004293s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_now_data` [ RunTime:0.029231s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_now_data` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000614s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_service_data` [ RunTime:0.028935s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_service_data` WHERE  `add_date` = '2018-08-02' GROUP BY `add_hour` [ RunTime:0.000522s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:24:26+08:00 ] ::1 ::1 POST /kefuxitong/public/index.php/admin/login/dologin.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/dologin.html [运行时间：0.095311s][吞吐率：10.49req/s] [内存消耗：1,992.11kb] [文件加载：44]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'dologin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=11',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '28',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'root',
+  'password' => 'root',
+)
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004702s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_admins` [ RunTime:0.027625s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_admins` WHERE  `user_name` = 'root' LIMIT 1 [ RunTime:0.000605s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:25:26+08:00 ] ::1 ::1 POST /kefuxitong/public/index.php/admin/login/dologin.html
+[ info ] localhost/kefuxitong/public/index.php/admin/login/dologin.html [运行时间：0.152729s][吞吐率：6.55req/s] [内存消耗：2,111.72kb] [文件加载：49]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'dologin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=11',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '30',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => 'admin',
+)
+[ info ] [ RUN ] app\admin\controller\Login->doLogin[ G:\PHP\WWW\kefuxitong\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003297s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_admins` [ RunTime:0.018974s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_admins` WHERE  `user_name` = 'admin' LIMIT 1 [ RunTime:0.000644s ]
+[ sql ] [ SQL ] UPDATE `ws_admins`  SET `last_login_ip`='0.0.0.0',`last_login_time`=1533144326  WHERE  `id` = 1 [ RunTime:0.082746s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:25:26+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/index.html [运行时间：0.036856s][吞吐率：27.13req/s] [内存消耗：1,401.55kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=11',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:25:26+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/indexpage.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/indexpage.html [运行时间：0.111639s][吞吐率：8.96req/s] [内存消耗：2,041.46kb] [文件加载：46]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexpage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=12',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->indexPage[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index\index.html [ array (
+  0 => 'version',
+  1 => 'data',
+  2 => 'show_data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005605s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_now_data` [ RunTime:0.028836s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_now_data` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_service_data` [ RunTime:0.021247s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_service_data` WHERE  `add_date` = '2018-08-02' GROUP BY `add_hour` [ RunTime:0.000684s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:25:28+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/index.html [运行时间：0.027352s][吞吐率：36.56req/s] [内存消耗：1,401.61kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=12',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:25:28+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/indexpage.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/indexpage.html [运行时间：0.106564s][吞吐率：9.38req/s] [内存消耗：2,041.46kb] [文件加载：46]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexpage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=13',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->indexPage[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index\index.html [ array (
+  0 => 'version',
+  1 => 'data',
+  2 => 'show_data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005696s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_now_data` [ RunTime:0.023373s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_now_data` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000559s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_service_data` [ RunTime:0.024573s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_service_data` WHERE  `add_date` = '2018-08-02' GROUP BY `add_hour` [ RunTime:0.000447s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:25:28+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/index.html [运行时间：0.024770s][吞吐率：40.37req/s] [内存消耗：1,401.61kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=13',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:25:29+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/indexpage.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/indexpage.html [运行时间：0.109920s][吞吐率：9.10req/s] [内存消耗：2,041.46kb] [文件加载：46]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexpage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=14',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->indexPage[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index\index.html [ array (
+  0 => 'version',
+  1 => 'data',
+  2 => 'show_data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003921s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_now_data` [ RunTime:0.029733s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_now_data` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_service_data` [ RunTime:0.027066s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_service_data` WHERE  `add_date` = '2018-08-02' GROUP BY `add_hour` [ RunTime:0.000532s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:26:11+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/index.html [运行时间：0.030314s][吞吐率：32.99req/s] [内存消耗：1,401.64kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=14',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/login/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:26:12+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/index/indexpage.html
+[ info ] localhost/kefuxitong/public/index.php/admin/index/indexpage.html [运行时间：0.109178s][吞吐率：9.16req/s] [内存消耗：2,041.49kb] [文件加载：46]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexpage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->indexPage[ G:\PHP\WWW\kefuxitong\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\index\index.html [ array (
+  0 => 'version',
+  1 => 'data',
+  2 => 'show_data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010862s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_now_data` [ RunTime:0.034347s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_now_data` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_service_data` [ RunTime:0.018995s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_service_data` WHERE  `add_date` = '2018-08-02' GROUP BY `add_hour` [ RunTime:0.000637s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:26:15+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html [运行时间：0.032292s][吞吐率：30.97req/s] [内存消耗：1,528.70kb] [文件加载：42]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\users\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:26:15+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText=
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText= [运行时间：0.100677s][吞吐率：9.93req/s] [内存消耗：2,100.84kb] [文件加载：47]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/users/index.html',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'searchText' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003914s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_users` [ RunTime:0.030668s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_users` ORDER BY `id`  desc [ RunTime:0.000956s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_groups` [ RunTime:0.023423s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001163s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ws_users` LIMIT 1 [ RunTime:0.000361s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:26:25+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/system/customerservice.html
+[ info ] localhost/kefuxitong/public/index.php/admin/system/customerservice.html [运行时间：0.069300s][吞吐率：14.43req/s] [内存消耗：2,230.85kb] [文件加载：49]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'customerservice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\System->customerService[ G:\PHP\WWW\kefuxitong\application\admin\controller\System.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\system\customerservice.html [ array (
+  0 => 'version',
+  1 => 'config',
+  2 => 'status',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004593s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_kf_config` [ RunTime:0.022690s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_kf_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000753s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:26:29+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/system/wordslog.html
+[ info ] localhost/kefuxitong/public/index.php/admin/system/wordslog.html [运行时间：0.032180s][吞吐率：31.08req/s] [内存消耗：1,511.76kb] [文件加载：42]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'wordslog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\System->wordsLog[ G:\PHP\WWW\kefuxitong\application\admin\controller\System.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\system\wordslog.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:26:29+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/system/wordslog.html?pageNumber=1&pageSize=15&searchText=&start=&end=
+[ info ] localhost/kefuxitong/public/index.php/admin/system/wordslog.html?pageNumber=1&pageSize=15&searchText=&start=&end= [运行时间：0.065623s][吞吐率：15.24req/s] [内存消耗：2,021.91kb] [文件加载：46]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'wordslog',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/system/wordslog.html',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'pageNumber' => '1',
+  'pageSize' => '15',
+  'searchText' => '',
+  'start' => '',
+  'end' => '',
+)
+[ info ] [ RUN ] app\admin\controller\System->wordsLog[ G:\PHP\WWW\kefuxitong\application\admin\controller\System.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003440s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_chat_log` [ RunTime:0.024523s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_chat_log` ORDER BY `id`  desc LIMIT 0,15 [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ws_chat_log` LIMIT 1 [ RunTime:0.000392s ]
+---------------------------------------------------------------
+[ 2018-08-02T01:26:39+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html [运行时间：0.027836s][吞吐率：35.92req/s] [内存消耗：1,381.66kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\users\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T01:26:39+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText=
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText= [运行时间：0.090821s][吞吐率：11.01req/s] [内存消耗：2,100.84kb] [文件加载：47]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/users/index.html',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'searchText' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003038s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_users` [ RunTime:0.021771s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_users` ORDER BY `id`  desc [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_groups` [ RunTime:0.024501s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000429s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ws_users` LIMIT 1 [ RunTime:0.000744s ]
+---------------------------------------------------------------
+[ 2018-08-02T09:56:03+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText=
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText= [运行时间：0.955511s][吞吐率：1.05req/s] [内存消耗：2,100.84kb] [文件加载：47]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/users/index.html',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'searchText' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.085628s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_users` [ RunTime:0.140851s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_users` ORDER BY `id`  desc [ RunTime:0.001017s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_groups` [ RunTime:0.104777s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001827s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001528s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ws_users` LIMIT 1 [ RunTime:0.001431s ]
+---------------------------------------------------------------
+[ 2018-08-02T12:43:25+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/edituser/id/2.html
+[ info ] localhost/kefuxitong/public/index.php/admin/users/edituser/id/2.html [运行时间：0.124725s][吞吐率：8.02req/s] [内存消耗：2,253.95kb] [文件加载：49]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'edituser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/users/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ RUN ] app\admin\controller\Users->editUser[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\users\edituser.html [ array (
+  0 => 'version',
+  1 => 'info',
+  2 => 'status',
+  3 => 'groups',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010964s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_users` [ RunTime:0.018912s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_users` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_groups` [ RunTime:0.017648s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_groups` [ RunTime:0.000490s ]
+---------------------------------------------------------------
+[ 2018-08-02T12:43:34+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html [运行时间：0.025164s][吞吐率：39.74req/s] [内存消耗：1,381.66kb] [文件加载：40]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ VIEW ] G:\PHP\WWW\kefuxitong\public/../application/admin\view\users\index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T12:43:34+08:00 ] ::1 ::1 GET /kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText=
+[ info ] localhost/kefuxitong/public/index.php/admin/users/index.html?pageNumber=1&pageSize=10&searchText= [运行时间：0.109148s][吞吐率：9.16req/s] [内存消耗：2,100.84kb] [文件加载：47]
+[ info ] [ LANG ] G:\PHP\WWW\kefuxitong\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'users',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1430376595273322500.1529130111939.7073; BYdz_2132_saltkey=l1Jb5hk0; pgv_pvi=6828440576; Huiskin=default; user_name=admin; user_id=1; monitor_count=15',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/kefuxitong/public/index.php/admin/users/index.html',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'searchText' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Users->index[ G:\PHP\WWW\kefuxitong\application\admin\controller\Users.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006345s ] mysql:host=127.0.0.1;port=3306;dbname=whisper;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_users` [ RunTime:0.028188s ]
+[ sql ] [ SQL ] SELECT * FROM `ws_users` ORDER BY `id`  desc [ RunTime:0.001294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ws_groups` [ RunTime:0.020556s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000438s ]
+[ sql ] [ SQL ] SELECT `name` FROM `ws_groups` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ws_users` LIMIT 1 [ RunTime:0.000466s ]
